@@ -9,7 +9,7 @@
 * 加入DNS优化，解决部分地区无法连上的问题
 
 * 1下载https://ppt.cc/fSfsLx
-* 2下载https://ppt.cc/fnmWxx
+* 2下载https://rebrand.ly/839e7
 * 3下载https://tinyurl.com/ybxsjc4n
 
 
